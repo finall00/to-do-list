@@ -1,3 +1,5 @@
+// esse arquivo possui as configurações do projeto caso outra pessoa for alterar
+
 {
     "env": {
         "commonjs": true,
